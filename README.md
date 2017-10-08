@@ -21,8 +21,8 @@ All awesome contents for a software engineers and avid learners about technologi
 - [awesome software craftsmanship](https://github.com/benas/awesome-software-craftsmanship)
 - [system design primer](https://github.com/donnemartin/system-design-primer)
 
-# Software architecture :
--[Scalable Software Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)
+## Software architecture :
+- [Scalable Software Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)
 
 ## Keep learning  :
 - [computer science](https://github.com/ossu/computer-science)
