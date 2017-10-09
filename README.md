@@ -30,5 +30,9 @@ All awesome contents for a software engineers and avid learners about technologi
 
 - [Best websites a programmer should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
+## Awesome eBooks :
+- [Programming books](https://github.com/EbookFoundation/free-programming-books)
+- [Software Craftsman eBooks](https://github.com/miguellgt/books)
+
 ## Awesome twitter accounts :
 - [Awesome iOs twitter](https://github.com/carolanitz/Awesome-iOS-Twitter)
